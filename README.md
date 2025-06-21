@@ -1,2 +1,3 @@
 # Hello
-Markdown is &lt;span style="font-family: ui-rounded">cool!&lt;/span>
+Markdown is <span style="font-family: ui-rounded">cool!</span>
+<ins>Hello!</ins>
