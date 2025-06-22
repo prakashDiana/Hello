@@ -183,7 +183,9 @@ Help!
 *War**ning*
 > [!WARNING]
 > help
+
 > [!NOTE]
 >  Should get 1 pt each
+
 > [!INFO]
 > hellp!!!
