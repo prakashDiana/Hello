@@ -187,5 +187,8 @@ Help!
 > [!NOTE]
 >  Should get 1 pt each
 
-> [!INFO]
+> [!TIP]
 > hellp!!!
+
+> [!IMPORTANT]
+> d9¥:E-÷™~(h§°
